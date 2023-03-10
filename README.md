@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:
 -->
-Hey folks, My name is Sameer Khan and currently I am a 2nd year B.tech Student.
+#### My name is Sameer Khan and currently I am a 2nd year B.tech Student.
 
 - 😇 I always believe in learn from the community and give back to community.
 - 🔭 I’m currently working on building skills.
 - 🌱 I’m currently learning - DSA with Java, Node.js, Devops.
 - 🤔 I’m looking for help with Open Source Contributions.
 - 💬 Ask me about - Web Dev, Scope in IT sector, Open Source.
-- 📫 How to reach me: Sameer005Y(Telegram).
+- 📫 How to reach me: @Sameer005Y (Telegram) | [Instagram](https://www.instagram.com/sameer1389saifi/).
