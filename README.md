@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-#### My name is Sameer Khan and currently I am a 2nd year B.tech Student.
+#### My name is Sameer Khan and currently I am a 3rd year B.tech Student.
 
 - 😇 I always believe in learn from the community and give back to community.
 - 🔭 I’m currently working on building skills.
